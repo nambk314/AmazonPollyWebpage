@@ -1,3 +1,18 @@
+.btn-tts {
+  border : solid 0px #e6b215;
+  border-radius : 8px;    
+  background-color: gainsboro;
+  margin-top: 20px;
+  padding: 14px 28px;
+  font-size: 10px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn-tts:hover {
+  background-color:darkgray;
+}
+
 .buttons {
 	border : solid 0px #e6b215;
 	border-radius : 8px;
